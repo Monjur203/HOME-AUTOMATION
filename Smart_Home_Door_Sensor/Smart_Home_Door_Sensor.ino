@@ -6,12 +6,12 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-#define BOT_TOKEN "6445051216:AAF7y6ymOLIrFR-b2QLxjopGUCYfTh3_4Iw"
+#define BOT_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 // Use @myidbot (IDBot) to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "5401625639"
+#define CHAT_ID "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 WiFiClientSecure secured_client;
 UniversalTelegramBot bot(BOT_TOKEN, secured_client);
@@ -20,7 +20,7 @@ int doorState;
 bool doorStateChangeDetected = false;
 bool wasDoorOpen = false;
 bool dataSent = false;
-const char* scriptId = "AKfycbyP2YVroPzK1zOkmGvt2pWLXrTFdLs6ucj72x0NhyZpWmHKdz4Zhs6cCkwLze0rUaiV";
+const char* scriptId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 const char* sheetName = "Sensor_Data";
 float sensor2Value = 0.0;
 
