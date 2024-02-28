@@ -53,8 +53,8 @@ CloudSwitch switch4;
 
 
 void initProperties(){
-  const char DEVICE_LOGIN_NAME[]  = "e762f4bf-01fd-4457-8a39-b9482920e574";
-  const char DEVICE_KEY[]         = "WQYKWRQEXRRWCAZ34OXF";
+  const char DEVICE_LOGIN_NAME[]  = "xxxxxxxxxxxxxxxxxxxxxxxxxx";   //you will get a pdf form ardino iot cloude just copy and past the device id
+  const char DEVICE_KEY[]         = "xxxxxxxxxxxx";  ////you will get a pdf form ardino iot cloude just copy and past the Secret Key
   ArduinoCloud.setBoardId(DEVICE_LOGIN_NAME);
   ArduinoCloud.setSecretDeviceKey(DEVICE_KEY);
   //ArduinoCloud.setThingId(THING_ID);
