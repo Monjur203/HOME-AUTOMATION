@@ -24,7 +24,7 @@ This project utilizes ESP32 microcontroller along with Arduino IoT Cloud to crea
 - Remote control (optional)
 ## Setup Instructions
 
-![App Screenshot](https://i.ibb.co/3C0nGqM/esp32-servo.png)
+![Screenshot](/Home_automation_with_survo/Reference/esp32-servo.png)
 
 ### 1.	Hardware Setup:
 
@@ -63,15 +63,15 @@ This project utilizes ESP32 microcontroller along with Arduino IoT Cloud to crea
 ## Importent Note
 
 - Change the device ID and Secret key.
-![App Screenshot](https://i.ibb.co/0BnSvZp/Screenshot-2024-02-28-104720.png)
+![Screenshot](/Home_automation_with_survo/Reference/Screenshot-2024-02-28-104720.png)
 
 - Flowe the instructions to create an Arduino id account and get the Device ID and Secret key. [Click here](https://iotcircuithub.com/arduino-iot-cloud-tutorial-esp8266-esp32/)
 
 - Follow the instructions top to the “Sketch for Arduino IoT Cloud projects” part after this the information is outdated.
 
 - When creating a Variable in Arduino iot cloud the name of the variable should match with the photo name.
-![App Screenshot](https://i.ibb.co/KhrZR0J/Screenshot-2024-02-28-105024.png)
-![App Screenshot](https://i.ibb.co/s2jWR81/Screenshot-2024-02-28-105114.png)
+![Screenshot](/Home_automation_with_survo/Reference/Screenshot-2024-02-28-105024.png)
+![Screenshot](/Home_automation_with_survo/Reference/Screenshot-2024-02-28-105114.png)
 
 
 
