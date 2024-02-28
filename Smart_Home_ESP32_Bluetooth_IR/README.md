@@ -42,6 +42,13 @@ This project allows users to control home appliances such as lights and fans usi
    - Power up the ESP32 and ensure Bluetooth is enabled.
    - Open the app on your smartphone and connect to the ESP32 via Bluetooth.
    - Use the app to control the lights and fans remotely.
+  
+## App building
+
+- Create mit app inventor account and use the .aio file from the app folder where you can build your custom app. 
+- Also, ask will available there app folder
+  ![Screenshot](/Smart_Home_ESP32_Bluetooth_IR/Reference/Screenshot-2024-02-28-125631.png)
+
 
 ## Circuit Diagram
 
