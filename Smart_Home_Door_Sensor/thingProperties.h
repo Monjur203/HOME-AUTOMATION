@@ -5,9 +5,9 @@
 
 const char DEVICE_LOGIN_NAME[]  = "e464a694-2a6c-4ff3-8513-db4df1a37b4e";
 
-const char SSID[]               = SECRET_SSID;    // Network SSID (name)
-const char PASS[]               = SECRET_OPTIONAL_PASS;    // Network password (use for WPA, or use as key for WEP)
-const char DEVICE_KEY[]  = SECRET_DEVICE_KEY;    // Secret device password
+const char SSID[]               = xxxxxxx;    // Network SSID (name)
+const char PASS[]               = xxxxxxxxx;    // Network password (use for WPA, or use as key for WEP)
+const char DEVICE_KEY[]  = xxxxxxxxxxxxxxx;    // Secret device password
 
 void onServoChange();
 
